@@ -27,8 +27,8 @@ https://www.youtube.com/@DeepLearning101
   <summary>Speech Recognition (語音識別)</summary>
 
   - [中文語音識別](https://www.twman.org/AI/ASR)
+    - [語音識別質檢+時間戳：Whisper Large V2](https://huggingface.co/spaces/DeepLearning101/Speech-Quality-Inspection_whisperX)
   - [Whisper](https://github.com/Deep-Learning-101/Speech-Processing-Paper/blob/main/Whisper.md)
-    - (2023-07-26@TonTon) 已在 higgingface hub 上佈署 WhisperX
   - [WeNet](https://github.com/Deep-Learning-101/Speech-Processing-Paper/blob/main/WeNet.md)
   - [FunASR](https://github.com/Deep-Learning-101/Speech-Processing-Paper/blob/main/FunASR.md)
 
@@ -47,6 +47,7 @@ https://www.youtube.com/@DeepLearning101
   <summary>Speech Enhancement (語音增強)</summary>
 
   - [中文語音增強(去噪)](https://www.twman.org/AI/ASR/SpeechEnhancement)
+    - [語音質檢+噪音去除：Meta Denoiser](https://huggingface.co/spaces/DeepLearning101/Speech-Quality-Inspection_Meta-Denoiser)
   - [Denoiser](https://github.com/Deep-Learning-101/Speech-Processing-Paper/blob/main/Denoiser.md)
 
   </details>
@@ -57,13 +58,15 @@ https://www.youtube.com/@DeepLearning101
   - [中文語者分離(分割)](https://www.twman.org/AI/ASR/SpeechSeparation)
   - [Mossformer](https://github.com/Deep-Learning-101/Speech-Processing-Paper/blob/main/Mossformer.md)
   - [TOLD@FASR](https://github.com/alibaba-damo-academy/FunASR/tree/main/egs/callhome/TOLD)
-    - [TOLD能對混疊語音建模的說話人日誌框架](https://zhuanlan.zhihu.com/p/650346578))
+    - [TOLD能對混疊語音建模的說話人日誌框架](https://zhuanlan.zhihu.com/p/650346578)
 
   </details>
 
   <details close>
   <summary>Speech Synthesis (語音合成)</summary>
 
+  - [Rectified Flow Matching 語音合成，上海交大開源](https://www.speechhome.com/blogs/news/1712396018944970752)：https://github.com/cantabile-kwok/VoiceFlow-TTS
+  - [新一代開源語音庫CoQui TTS衝到了GitHub 20.5k Star](https://zhuanlan.zhihu.com/p/661291996)：https://github.com/coqui-ai/TTS/
   - [清華大學LightGrad-TTS，且流式實現](https://zhuanlan.zhihu.com/p/656012430)：https://github.com/thuhcsi/LightGrad
   - [出門問問MeetVoice, 讓合成聲音以假亂真](https://zhuanlan.zhihu.com/p/92903377)
   - [VALL-E：微軟全新語音合成模型可以在3秒內復制任何人的聲音](https://zhuanlan.zhihu.com/p/598473227)
@@ -81,7 +84,7 @@ https://www.youtube.com/@DeepLearning101
 ### [Natural Language Processing, NLP (自然語言處理)](https://github.com/Deep-Learning-101/Natural-Language-Processing-Paper)：**[那些自然語言處理踩的坑](https://blog.twman.org/2021/04/NLP.html)**：[針對文檔進行分析與擷取](https://www.twman.org/AI/NLP)。
 
 #### [大型語言模型(Large Language Model，LLM)，想要嗎？](https://blog.twman.org/2023/04/GPT.html)
-#### [基於機器閱讀理解的指令微調的統一信息抽取框架之診斷書醫囑擷取分析](https://blog.twman.org/2023/07/HugIE.html)
+#### [基於機器閱讀理解的指令微調的統一信息抽取框架之診斷書醫囑擷取分析](https://blog.twman.org/2023/07/HugIE.html)：https://huggingface.co/spaces/DeepLearning101/IE101TW
 
 <details open>
 <summary><strong>自然語言處理</strong></summary>
@@ -106,6 +109,10 @@ https://www.youtube.com/@DeepLearning101
 
   <details close>
   <summary>Machine Reading Comprehension (機器閱讀理解)</summary>
+  
+  - [中文機器閱讀理解](https://www.twman.org/AI/NLP/MRC)
+    - [繁體中文閱讀理解：Bert](https://huggingface.co/spaces/DeepLearning101/Reading-Comprehension_Bert)
+
   </details>
 
   <details close>
@@ -142,6 +149,7 @@ https://www.youtube.com/@DeepLearning101
   <details close>
   <summary>Optical Character Recognition (光學字元辨識)</summary>
 
+  - [繁體中文醫療診斷書和收據OCR：PaddleOCR](https://huggingface.co/spaces/DeepLearning101/OCR101TW/tree/main)
   - PaddleOCR
 
   </details>
