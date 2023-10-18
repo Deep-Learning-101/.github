@@ -109,7 +109,7 @@ https://www.youtube.com/@DeepLearning101
 
   <details close>
   <summary>Machine Reading Comprehension (機器閱讀理解)</summary>
-  
+
   - [中文機器閱讀理解](https://www.twman.org/AI/NLP/MRC)
     - [繁體中文閱讀理解：Bert](https://huggingface.co/spaces/DeepLearning101/Reading-Comprehension_Bert)
 
@@ -149,7 +149,7 @@ https://www.youtube.com/@DeepLearning101
   <details close>
   <summary>Optical Character Recognition (光學字元辨識)</summary>
 
-  - [繁體中文醫療診斷書和收據OCR：PaddleOCR](https://huggingface.co/spaces/DeepLearning101/OCR101TW/tree/main)
+  - [繁體中文醫療診斷書和收據OCR：PaddleOCR](https://huggingface.co/spaces/DeepLearning101/OCR101TW)
   - PaddleOCR
 
   </details>
