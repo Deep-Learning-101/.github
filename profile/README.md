@@ -104,6 +104,9 @@ https://www.youtube.com/@DeepLearning101
   - [HugNLP](https://github.com/Deep-Learning-101/Natural-Language-Processing-Paper/blob/main/HugNLP.md)
   - [DeepKE](https://github.com/Deep-Learning-101/Natural-Language-Processing-Paper/blob/main/DeepKE.md)
   - [ERINE-Layout](https://github.com/Deep-Learning-101/Natural-Language-Processing-Paper/blob/main/ERNIE-Layout.md)
+  - [UIE @ PaddleNLP](https://huggingface.co/spaces/DeepLearning101/PaddleNLP-UIE)
+    - https://github.com/PaddlePaddle/PaddleNLP/tree/develop/model_zoo/uie
+
 
   </details>
 
@@ -117,21 +120,33 @@ https://www.youtube.com/@DeepLearning101
 
   <details close>
   <summary>Named Entity Recognition (命名實體識別)</summary>
+
+  - [中文命名實體識別](https://www.twman.org/AI/NLP/NER)
+
   </details>
 
   <details close>
   <summary>Correction (糾錯)</summary>
+
+  - [中文文本糾錯](https://www.twman.org/AI/NLP/Correction)
+
   </details>
 
   <details close>
   <summary>Classification (分類)</summary>
+
+  - [中文文本分類](https://www.twman.org/AI/NLP/Classification)
+
   </details>
 
   <details close>
   <summary>Similarity (相似度)</summary>
+
+  - [中文文本相似度](https://www.twman.org/AI/NLP/Similarity)
+
   </details>
 
-</details>  
+</details>
 
 
 
