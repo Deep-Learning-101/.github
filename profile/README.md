@@ -2,7 +2,8 @@
 
 # Deep Learning 101
 
-## The top private AI Meetup in Taiwan, launched on 2016
+## The top private AI Meetup in Taiwan, launched on 2016 @ 83F, Taipei 101
+## 台灣曾經最高最早發起的深度學習社群 @ 83F, 台北101
 
 <img src="https://github.com/Deep-Learning-101/.github/blob/main/images/DeepLearning101.JPG?raw=true" alt="Deep Learning 101" width="400">
 
