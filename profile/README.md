@@ -16,6 +16,10 @@
 
 </div>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/DeepLearning101" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
 ---
 
 ### [手把手帶你一起踩 AI 坑](https://blog.twman.org/p/deeplearning101.html)：https://www.twman.org/AI
